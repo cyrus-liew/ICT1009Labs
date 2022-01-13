@@ -1,3 +1,2 @@
 # ICT 1009 Labs
-ICT 1009 Lab Exercises
-Object-oriented Programming Labs
+ICT 1009 Object-oriented Programming Lab Exercises
